@@ -6,3 +6,5 @@
 
 # Not in the guide: `rescue nil` prevents errors from displaying
 starmonkey = ratchet.attach( captive_monkey, pipe.catch_a_star ) + deco_hand_frog rescue nil
+
+print "\n"

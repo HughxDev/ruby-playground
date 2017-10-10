@@ -3,3 +3,5 @@
 
 blue_crystal = 1
 leaf_tender = 5
+
+print "\n"
