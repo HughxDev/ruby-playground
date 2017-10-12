@@ -1,4 +1,4 @@
-# [“Why’s (Poignant) Guide to Ruby”](https://poignant.guide)
+# “Why’s (Poignant) Guide to Ruby”
 
 From [Wikipedia][1]:
 
@@ -7,6 +7,10 @@ From [Wikipedia][1]:
 >The book is unusual among programming books in that it includes quite a lot of strange humor and narrative side tracks which are sometimes completely unrelated to the topic. Many motifs have become inside jokes in the Ruby community, such as references to the words "chunky bacon". The book includes many characters which have become popular as well, particularly the cartoon foxes and Trady Blix, a large black feline friend of why's, who acts as a guide to the foxes (and occasionally teaches them some Ruby).
 >
 >The book is published in HTML and PDF. Chapter three was reprinted in The Best Software Writing I: Selected and Introduced by Joel Spolsky (Apress, 2005).
+
+## Mirrors
+
+- https://poignant.guide
 
 ## Errata
 
