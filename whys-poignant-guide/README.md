@@ -10,7 +10,7 @@ From [Wikipedia][1]:
 
 ## Mirrors
 
-- https://poignant.guide
+- https://poignant.guide (reference version)
 
 ## Errata
 
@@ -18,7 +18,8 @@ Changes to Ruby over time have left some portions of the text out of date. They 
 
 ### Chapter 4
 
-- 
+- Many mangled smart quotation marks, such as:
+  > ”’A is for the Architecture of buildings like this,’” I said, in a gruff Mad voice. ”’Which give us hope in a crumbling world.’”
 
 ### Expansion Pak 1
 
