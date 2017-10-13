@@ -1,3 +1,6 @@
+# Settle Down, Your Ideas Aren’t Trapped
+# https://poignant.guide/book/chapter-4.html
+
 require_relative 'wordlist'
 
 # Print each idea out with the words fixed

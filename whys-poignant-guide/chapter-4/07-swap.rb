@@ -1,3 +1,6 @@
+# Making the Swap
+# https://poignant.guide/book/chapter-4.html
+
 require_relative 'wordlist'
 
 # Get evil idea and swap in code words
